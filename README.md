@@ -16,3 +16,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+I build scalable, modern web applications. Check out my cinematic portfolio:
+🔗 **[Akshay Bhawar Portfolio](https://akshaybhawar03.github.io/portfolio/)**
+
+### 💻 Tech Stack
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express, MongoDB, PostgreSQL, GraphQL
+* **Tools:** Docker, AWS, Git, Figma
