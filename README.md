@@ -2,6 +2,15 @@
 🚀 Passionate Developer | AI Enthusiast | Builder<br><br>I'm focused on creating impactful real-world projects like AI-based platforms and scalable web applications.  <br>Currently exploring the power of LLMs and building solutions that solve practical problems.<br><br>🤝 Open to collaborating on innovative ideas in AI, Web Development, and startups.  <br>🛠️ Constantly improving my skills in system design and production-ready applications.  <br>📚 Learning advanced concepts like RAG, LLMs, and modern full-stack development.  <br>💬 Always ready to discuss tech, ideas, and building something meaningful.  <br><br>⚡ I believe in learning by building, not just watching.
 
 
+I build scalable, modern web applications. Check out my cinematic portfolio:
+🔗 **[Akshay Bhawar Portfolio](https://akshaybhawar03.github.io/portfolio/)**
+
+### 💻 Tech Stack
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express, MongoDB, PostgreSQL, GraphQL
+* **Tools:** Docker, AWS, Git, Figma
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay_bhawar_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshay-bhawar-5a7848291/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoqJ05QMBQliZYY86f6DrCw%3D%3D) 
 
@@ -16,11 +25,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-I build scalable, modern web applications. Check out my cinematic portfolio:
-🔗 **[Akshay Bhawar Portfolio](https://akshaybhawar03.github.io/portfolio/)**
-
-### 💻 Tech Stack
-* **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-* **Backend:** Node.js, Express, MongoDB, PostgreSQL, GraphQL
-* **Tools:** Docker, AWS, Git, Figma
